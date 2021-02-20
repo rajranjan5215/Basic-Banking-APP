@@ -7,9 +7,9 @@ A new Flutter project( Basic Banking App) with Firebase as Backend.
 -Alert Dialogs for several alerts.
 
 # Screenshots
-![alt text](https://github.com/rajranjan5215/Basic-Banking-APP/blob/main/screenshots1/s1.png?raw=true)
-![alt text](https://github.com/rajranjan5215/Basic-Banking-APP/blob/main/screenshots1/s2.png?raw=true)
-![alt text](https://github.com/rajranjan5215/Basic-Banking-APP/blob/main/screenshots1/s3.png?raw=true)
+![alt text](https://github.com/rajranjan5215/Basic-Banking-APP/blob/main/screenshots1/s1.PNG?raw=true)
+![alt text](https://github.com/rajranjan5215/Basic-Banking-APP/blob/main/screenshots1/s2.PNG?raw=true)
+![alt text](https://github.com/rajranjan5215/Basic-Banking-APP/blob/main/screenshots1/s3.PNG?raw=true)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
