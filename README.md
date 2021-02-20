@@ -1,7 +1,15 @@
 # basicbankingapp
 
-A new Flutter project.
+A new Flutter project( Basic Banking App) with Firebase as Backend.
+# Flutter Basic Banking  App Features
+-StreamBuilder to perform operations on Database. <br />
+-Listview.builder for customer Lists. <br />
+-Alert Dialogs for several alerts.
 
+# Screenshots
+![alt text](https://github.com/rajranjan5215/Basic-Banking-APP/blob/main/screenshots/s1.png?raw=true)
+![alt text](https://github.com/rajranjan5215/Basic-Banking-APP/blob/main/screenshots/s2.png?raw=true)
+![alt text](https://github.com/rajranjan5215/Basic-Banking-APP/blob/main/screenshots/s3.png?raw=true)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
