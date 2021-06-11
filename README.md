@@ -3,7 +3,7 @@
 A new Flutter project( Basic Banking App) with Firebase as Backend.
 
 #Video Presentation
-You can check out the video using the link. <br/ >
+- You can check out the video using the link.<br />
 Link : https://www.linkedin.com/posts/raj-ranjan5215_gripfeb21-thesparksfoundation-appdevelopement-activity-6768766733487480832-FMiw
 
 # Flutter Basic Banking  App Features
